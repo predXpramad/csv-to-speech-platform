@@ -1,0 +1,54 @@
+# IDE / OS Files
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docker
+docker-compose.override.yml
+
+# Backend (Python / FastAPI)
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.pytest_cache/
+backend/venv/
+backend/.venv/
+backend/env/
+backend/.env/
+backend/logs/
+backend/*.log
+
+# Frontend (Node.js / React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.npm/
+frontend/.eslintcache
+frontend/logs/
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Application Storage & Outputs
+# We ignore the contents of these folders so no user data/CSVs are accidentally pushed to GitHub.
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/temp_audio/*
+!storage/temp_audio/.gitkeep
+storage/zip_exports/*
+!storage/zip_exports/.gitkeep
+storage/metadata/*
+!storage/metadata/.gitkeep
