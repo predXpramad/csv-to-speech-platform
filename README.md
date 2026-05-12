@@ -112,5 +112,30 @@ docker-compose down
 ├── docker-compose.yml        # Orchestration Config
 ```
 
+## Contributing
+Contributions are always welcome! To contribute to this project, please follow these steps:
+
+1. **Fork the repository** on GitHub.
+2. **Clone your fork** locally: 
+   ```bash
+   git clone https://github.com/your-username/csv-to-speech-platform.git
+   ```
+3. **Create a new branch** for your feature or bug fix: 
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make your changes** and test them thoroughly.
+5. **Commit your changes** with descriptive commit messages: 
+   ```bash
+   git commit -m "Add some feature"
+   ```
+6. **Push** your branch to your fork: 
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. **Open a Pull Request** against the `main` branch of this repository.
+
+If you find a bug or have a feature request, please [open an issue](https://github.com/predXpramad/csv-to-speech-platform/issues)!
+
 ## License
 MIT License.
