@@ -22,27 +22,27 @@ A highly concurrent, production-ready, full-stack platform that seamlessly trans
 *(Add screenshots of your working application here once deployed)*
 
 ### 1. Upload & Configuration
-![alt text](image.png)
+![alt text](resources/image.png)
 <br/>
-![alt text](image-1.png)
+![alt text](resources/image-1.png)
 <br/><br/><br/>
 
 ### 2. Upload CSV and Configure TTS Parameters
-![alt text](image-2.png)
+![alt text](resources/image-2.png)
 <br/>
-![alt text](image-3.png)
+![alt text](resources/image-3.png)
 <br/><br/><br/>
 
 ### 3. Live Progress Dashboard
-![alt text](image-4.png)
+![alt text](resources/image-4.png)
 <br/>
-![alt text](image-5.png)
+![alt text](resources/image-5.png)
 <br/><br/><br/>
 
 ### 4. Download & Management
-![alt text](image-6.png)
+![alt text](resources/image-6.png)
 <br/>
-![alt text](image-7.png)
+![alt text](resources/image-7.png)
 <br/><br/><br/>
 
 ## Tech Stack
@@ -60,7 +60,7 @@ Because the entire application is completely containerized, spinning up the proj
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/csv-to-speech-platform.git
+   git clone https://github.com/predXpramad/csv-to-speech-platform.git
    cd csv-to-speech-platform
    ```
 
